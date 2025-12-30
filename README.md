@@ -5,6 +5,8 @@ I’m a **Regulatory Reporting Senior Manager at Capgemini**, consulting for **T
 Alongside my day job, I build **GenAI + agentic** products and prototypes focused on **regulatory intelligence, reporting automation, and decision support**—turning dense rules, taxonomies, and reporting obligations into practical workflows and modern web apps.
 
 ---
+
+![Example Image](languages.svg)
 languages.svg
 
 ### 🔭 What I’m working on
