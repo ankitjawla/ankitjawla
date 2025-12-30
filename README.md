@@ -6,7 +6,7 @@ Alongside my day job, I build **GenAI + agentic** products and prototypes focuse
 
 ---
 
-![Example Image](languages.svg)
+![Example Image](overview.svg) ![Example Image](languages.svg)
 
 ### 🔭 What I’m working on
 - **CapGenie** — an AI-powered regulatory reporting assistant & collaboration hub  
