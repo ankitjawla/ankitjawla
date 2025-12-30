@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ankit
 
-I’m a **Regulatory Reporting Senior Manager at Capgemini**, consulting for **Tier 1 Banks**, where I help teams deliver accurate, on-time regulatory reporting in highly governed, deadline-driven environments.
+I’m a **Regulatory Reporting Consultant**, consulting for **Tier 1 Banks**, where I help teams deliver accurate, on-time regulatory reporting in highly governed, deadline-driven environments.
 
 Alongside my day job, I build **GenAI + agentic** products and prototypes focused on **regulatory intelligence, reporting automation, and decision support**—turning dense rules, taxonomies, and reporting obligations into practical workflows and modern web apps.
 
