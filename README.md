@@ -6,7 +6,10 @@ Alongside my day job, I build **GenAI + agentic** products and prototypes focuse
 
 ---
 
-![Example Image](overview.svg) ![Example Image](languages.svg)
+![GitHub Stats](https://raw.githubusercontent.com/ankitjawla/GitHub-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/ankitjawla/GitHub-stats/master/generated/overview.svg#gh-light-mode-only)
+![Top Languages](https://raw.githubusercontent.com/ankitjawla/GitHub-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Top Languages](https://raw.githubusercontent.com/ankitjawla/GitHub-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### 🔭 What I’m working on
 - **CapGenie** — an AI-powered regulatory reporting assistant & collaboration hub  
