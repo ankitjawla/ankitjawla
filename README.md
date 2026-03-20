@@ -26,11 +26,12 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring · *auto-refreshed weekly*
 
-**[DeepEval](https://docs.confident-ai.com/)** — Open-source LLM evaluation framework with 14+ built-in metrics
+**[Skylos](https://harness-engineering.ai/blog/daily-ai-agent-news-roundup-march-20-2026-3/)** — A security-focused tool for local LLM agents and static analysis.
 
-> Running CI-integrated test suites against RAG pipelines to catch regressions in regulatory Q&A quality before deployment.
+> As a Regulatory Reporting Consultant, I recognize the critical need for security in AI applications, especially in FinTech. Skylos addresses vulnerabilities in AI systems by combining static analysis with local LLM agents, ensuring that our regulatory compliance tools are not only effective but also secure. This is essential for maintaining trust and integrity in financial services where data protection is paramount.
 
-**Status:** 🟢 Building &nbsp;|&nbsp; **Week:** `W12 · Mar 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W12 · Mar 2026`
+*🤖 AI-curated from this week's trending news*
 
 <!-- WEEKLY-EXPLORE:END -->
 
