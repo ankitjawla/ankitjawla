@@ -2,7 +2,7 @@
 
 I’m a **Regulatory Reporting Consultant**, consulting for **Tier 1 Banks**, where I help teams deliver accurate, on-time regulatory reporting in highly governed, deadline-driven environments.
 
-Alongside my day job, I build **GenAI + agentic** products and prototypes focused on **regulatory intelligence, reporting automation, and decision support**—turning dense rules, taxonomies, and reporting obligations into practical workflows and modern web apps.
+In my personal time — weekends and outside work hours — I build **GenAI + agentic** products and prototypes focused on **regulatory intelligence, reporting automation, and decision support**—turning dense rules, taxonomies, and reporting obligations into practical workflows and modern web apps. All projects here are independent, self-funded explorations carried out entirely in my own time.
 
 ---
 
