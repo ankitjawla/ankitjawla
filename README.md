@@ -24,14 +24,13 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 ---
 
 <!-- WEEKLY-EXPLORE:START -->
-### 🔬 Currently Exploring · *auto-refreshed weekly*
+### 🔬 Currently Exploring
 
-**[Skylos](https://harness-engineering.ai/blog/daily-ai-agent-news-roundup-march-20-2026-3/)** — A security-focused tool for local LLM agents and static analysis.
+**[LangChain](https://docs.langchain.com/oss/python/langchain/rag)** — Build RAG agents with ease using LangChain's powerful framework.
 
-> As a Regulatory Reporting Consultant, I recognize the critical need for security in AI applications, especially in FinTech. Skylos addresses vulnerabilities in AI systems by combining static analysis with local LLM agents, ensuring that our regulatory compliance tools are not only effective but also secure. This is essential for maintaining trust and integrity in financial services where data protection is paramount.
+> As a Regulatory Reporting Consultant, I'm particularly excited about LangChain's capabilities in building Retrieval-Augmented Generation (RAG) agents. This framework allows for dynamic retrieval of relevant data in real-time, which is critical for ensuring compliance and accuracy in regulatory reporting. By leveraging RAG, we can enhance the intelligence of our FinTech solutions, making them more responsive to the ever-changing regulatory landscape.
 
 **Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W12 · Mar 2026`
-*🤖 AI-curated from this week's trending news*
 
 <!-- WEEKLY-EXPLORE:END -->
 
