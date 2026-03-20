@@ -24,6 +24,14 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 ---
 
 <!-- WEEKLY-EXPLORE:START -->
+### 🔬 Currently Exploring · *auto-refreshed weekly*
+
+**[DeepEval](https://docs.confident-ai.com/)** — Open-source LLM evaluation framework with 14+ built-in metrics
+
+> Running CI-integrated test suites against RAG pipelines to catch regressions in regulatory Q&A quality before deployment.
+
+**Status:** 🟢 Building &nbsp;|&nbsp; **Week:** `W12 · Mar 2026`
+
 <!-- WEEKLY-EXPLORE:END -->
 
 ---
