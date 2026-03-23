@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[LangChain](https://docs.langchain.com/oss/python/langchain/rag)** — Build RAG agents with ease using LangChain's powerful framework.
+**[LangChain](https://www.shakudo.io/blog/top-9-ai-agent-frameworks)** — A modular framework for building LLM-powered applications.
 
-> As a Regulatory Reporting Consultant, I'm particularly excited about LangChain's capabilities in building Retrieval-Augmented Generation (RAG) agents. This framework allows for dynamic retrieval of relevant data in real-time, which is critical for ensuring compliance and accuracy in regulatory reporting. By leveraging RAG, we can enhance the intelligence of our FinTech solutions, making them more responsive to the ever-changing regulatory landscape.
+> LangChain's emergence as a leading framework is pivotal for regulatory and financial AI applications. Its modular tools and robust abstractions simplify the development of complex workflows, which is essential for creating compliant and efficient regulatory reporting systems. By leveraging LangChain, I can enhance the integration of LLMs into our existing processes, ensuring that we meet regulatory standards while maximizing operational efficiency.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W12 · Mar 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W13 · Mar 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
