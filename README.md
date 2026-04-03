@@ -63,7 +63,6 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 
 - Agentic workflows (LangGraph / LangChain / CrewAI style orchestration)
 - RAG systems, document intelligence, and knowledge graph augmentation
-- FinTech / RegTech product prototypes and MVP builds
 
 ---
 
