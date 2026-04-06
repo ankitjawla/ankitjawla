@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[LangChain](https://www.shakudo.io/blog/top-9-ai-agent-frameworks)** — A modular framework for building LLM-powered applications.
+**[VoiceAgentRAG](https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/)** — A dual-agent memory router enhancing voice RAG retrieval speed.
 
-> LangChain's emergence as a leading framework is pivotal for regulatory and financial AI applications. Its modular tools and robust abstractions simplify the development of complex workflows, which is essential for creating compliant and efficient regulatory reporting systems. By leveraging LangChain, I can enhance the integration of LLMs into our existing processes, ensuring that we meet regulatory standards while maximizing operational efficiency.
+> The VoiceAgentRAG framework significantly reduces retrieval latency, which is crucial for real-time regulatory compliance checks and decision-making in financial services. By cutting latency by 316x, it enables faster access to critical regulatory documents and insights, ensuring that banks can respond promptly to compliance inquiries and audits. This advancement aligns perfectly with my focus on RAG pipelines and document intelligence in the RegTech space.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W13 · Mar 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W15 · Apr 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
