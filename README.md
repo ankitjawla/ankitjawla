@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[VoiceAgentRAG](https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/)** — A dual-agent memory router enhancing voice RAG retrieval speed.
+**[TradingAgents](https://aitoolly.com/ai-news/article/2026-05-03-tauricresearch-launches-tradingagents-an-advanced-multi-agent-llm-framework-for-financial-trading)** — Advanced multi-agent LLM framework for financial trading.
 
-> The VoiceAgentRAG framework significantly reduces retrieval latency, which is crucial for real-time regulatory compliance checks and decision-making in financial services. By cutting latency by 316x, it enables faster access to critical regulatory documents and insights, ensuring that banks can respond promptly to compliance inquiries and audits. This advancement aligns perfectly with my focus on RAG pipelines and document intelligence in the RegTech space.
+> TradingAgents represents a significant step forward in how we can leverage multi-agent systems for financial trading. This framework allows for more sophisticated interactions between agents, which can enhance decision-making processes in regulatory reporting and compliance. As we navigate the complexities of RegTech, such tools can help automate and optimize trading strategies while ensuring adherence to regulatory standards.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W15 · Apr 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W19 · May 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
