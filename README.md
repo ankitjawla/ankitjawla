@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[TradingAgents](https://aitoolly.com/ai-news/article/2026-05-03-tauricresearch-launches-tradingagents-an-advanced-multi-agent-llm-framework-for-financial-trading)** — Advanced multi-agent LLM framework for financial trading.
+**[Retrieval-Augmented Generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)** — Enhancing LLMs with real-time data retrieval capabilities.
 
-> TradingAgents represents a significant step forward in how we can leverage multi-agent systems for financial trading. This framework allows for more sophisticated interactions between agents, which can enhance decision-making processes in regulatory reporting and compliance. As we navigate the complexities of RegTech, such tools can help automate and optimize trading strategies while ensuring adherence to regulatory standards.
+> As a Regulatory Reporting Consultant, the shift towards RAG frameworks is crucial for improving the accuracy and efficiency of compliance processes. By integrating real-time data retrieval, we can ensure that our AI systems leverage the most current regulatory information, thereby enhancing our ability to meet compliance standards and reduce risk. This is particularly relevant in the fast-evolving FinTech landscape, where timely and accurate data is paramount.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W19 · May 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W23 · Jun 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
