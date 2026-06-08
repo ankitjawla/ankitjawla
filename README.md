@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[Retrieval-Augmented Generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)** — Enhancing LLMs with real-time data retrieval capabilities.
+**[LangChain](https://github.com/langchain-ai/langchain)** — A powerful framework for building LLM-powered agents and applications.
 
-> As a Regulatory Reporting Consultant, the shift towards RAG frameworks is crucial for improving the accuracy and efficiency of compliance processes. By integrating real-time data retrieval, we can ensure that our AI systems leverage the most current regulatory information, thereby enhancing our ability to meet compliance standards and reduce risk. This is particularly relevant in the fast-evolving FinTech landscape, where timely and accurate data is paramount.
+> LangChain is particularly significant for regulatory and FinTech AI because it streamlines the development of complex applications that require interoperability among various data sources and APIs. As a Regulatory Reporting Consultant, I see immense potential in using LangChain to build agents that can efficiently process and analyze regulatory documents, ensuring compliance while reducing manual effort.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W23 · Jun 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W24 · Jun 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
