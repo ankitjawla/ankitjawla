@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[openai-agents-python](https://github.com/openai/openai-agents-python)** — A lightweight framework for building powerful AI agents.
+**[LangChain](https://www.langchain.com/resources/ai-agent-frameworks)** — The leading open-source framework for AI agents and LLM applications.
 
-> The openai-agents-python framework is a game-changer for developing regulatory AI applications. Its ability to delegate tasks between agents and utilize configurable safety checks aligns perfectly with the stringent compliance requirements in the financial sector. This framework can enhance the efficiency of regulatory reporting by enabling multi-agent systems to collaboratively handle complex tasks while adhering to safety protocols.
+> LangChain's extensive capabilities for building AI agents are crucial for the RegTech landscape, where compliance and regulatory reporting demand robust, automated solutions. With its rich ecosystem and community support, it allows us to create more efficient RAG pipelines and multi-agent systems that can adapt to ever-evolving regulations in the financial sector.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W25 · Jun 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W26 · Jun 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
