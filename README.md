@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[LangChain](https://www.langchain.com/resources/ai-agent-frameworks)** — The leading open-source framework for AI agents and LLM applications.
+**[RAG](https://www.ibm.com/think/topics/retrieval-augmented-generation)** — Enhancing LLMs with external knowledge for improved accuracy.
 
-> LangChain's extensive capabilities for building AI agents are crucial for the RegTech landscape, where compliance and regulatory reporting demand robust, automated solutions. With its rich ecosystem and community support, it allows us to create more efficient RAG pipelines and multi-agent systems that can adapt to ever-evolving regulations in the financial sector.
+> Retrieval-augmented generation (RAG) is crucial for regulatory and financial AI applications, as it allows models to access and incorporate real-time regulatory data and documents. This capability can enhance compliance monitoring and reporting accuracy, ensuring that financial institutions stay ahead of regulatory changes. By leveraging RAG, I can build more reliable GenAI solutions that support decision-making processes in the highly regulated FinTech landscape.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W26 · Jun 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W27 · Jun 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
