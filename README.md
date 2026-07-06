@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[RAG](https://www.ibm.com/think/topics/retrieval-augmented-generation)** — Enhancing LLMs with external knowledge for improved accuracy.
+**[Claude Agent SDK](https://www.morphllm.com/ai-agent-framework)** — A comprehensive SDK for building agent-based applications.
 
-> Retrieval-augmented generation (RAG) is crucial for regulatory and financial AI applications, as it allows models to access and incorporate real-time regulatory data and documents. This capability can enhance compliance monitoring and reporting accuracy, ensuring that financial institutions stay ahead of regulatory changes. By leveraging RAG, I can build more reliable GenAI solutions that support decision-making processes in the highly regulated FinTech landscape.
+> The Claude Agent SDK provides essential primitives for developing multi-agent systems, which are crucial for regulatory reporting applications. With features like lifecycle hooks and governance schemas, it allows for greater control and compliance in financial AI solutions, ensuring that regulatory requirements are met while leveraging the power of LLMs.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W27 · Jun 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W28 · Jul 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
