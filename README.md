@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[Claude Agent SDK](https://www.morphllm.com/ai-agent-framework)** — A comprehensive SDK for building agent-based applications.
+**[openai-agents-python](https://github.com/openai/openai-agents-python)** — Lightweight framework for building powerful AI agents.
 
-> The Claude Agent SDK provides essential primitives for developing multi-agent systems, which are crucial for regulatory reporting applications. With features like lifecycle hooks and governance schemas, it allows for greater control and compliance in financial AI solutions, ensuring that regulatory requirements are met while leveraging the power of LLMs.
+> The openai-agents-python framework is particularly relevant for regulatory and financial AI applications as it allows for the creation of multi-agent systems that can efficiently handle complex tasks, such as regulatory reporting and compliance checks. By leveraging agent handoffs and configurable safety checks, we can ensure that our AI solutions are not only effective but also adhere to the stringent regulatory standards required in the FinTech space.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W28 · Jul 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W29 · Jul 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
