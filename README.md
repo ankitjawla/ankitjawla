@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[openai-agents-python](https://github.com/openai/openai-agents-python)** — Lightweight framework for building powerful AI agents.
+**[openai-agents-python](https://github.com/openai/openai-agents-python)** — A lightweight framework for building powerful AI agents.
 
-> The openai-agents-python framework is particularly relevant for regulatory and financial AI applications as it allows for the creation of multi-agent systems that can efficiently handle complex tasks, such as regulatory reporting and compliance checks. By leveraging agent handoffs and configurable safety checks, we can ensure that our AI solutions are not only effective but also adhere to the stringent regulatory standards required in the FinTech space.
+> The openai-agents-python framework is a game-changer for developing regulatory AI solutions. Its ability to delegate tasks to specialized agents and implement configurable safety checks aligns perfectly with the compliance needs of the financial sector. By streamlining the creation of multi-agent systems, I can enhance regulatory reporting processes and improve the accuracy of document intelligence applications.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W29 · Jul 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W30 · Jul 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
