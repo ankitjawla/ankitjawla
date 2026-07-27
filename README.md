@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[openai-agents-python](https://github.com/openai/openai-agents-python)** — A lightweight framework for building powerful AI agents.
+**[LlamaIndex](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)** — Connect LLMs to your data with powerful indexing and retrieval.
 
-> The openai-agents-python framework is a game-changer for developing regulatory AI solutions. Its ability to delegate tasks to specialized agents and implement configurable safety checks aligns perfectly with the compliance needs of the financial sector. By streamlining the creation of multi-agent systems, I can enhance regulatory reporting processes and improve the accuracy of document intelligence applications.
+> LlamaIndex is a game-changer for regulatory reporting as it enhances the way we connect LLMs with vast datasets. By streamlining indexing and retrieval processes, it allows for more efficient extraction of regulatory insights from complex documents, which is crucial for compliance in the FinTech space. This capability can significantly reduce the time spent on data processing and improve the accuracy of our reports.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W30 · Jul 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W31 · Jul 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
