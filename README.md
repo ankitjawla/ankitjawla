@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[Agentic Search Stack](https://buzzgrewal.medium.com/ai-agents-dont-need-vector-search-anymore-inside-the-agentic-search-stack-replacing-rag-in-2026-58efcabe4f6f)** — A new approach replacing traditional RAG for AI agents.
+**[openai-agents-python](https://github.com/openai/openai-agents-python)** — A lightweight framework for building powerful AI agents.
 
-> The emergence of the Agentic Search Stack is a game-changer for regulatory AI applications. By enhancing multi-agent systems with more efficient retrieval mechanisms, we can significantly improve the accuracy and speed of regulatory reporting processes. This shift allows for better handling of complex regulatory requirements, ensuring compliance while reducing operational overhead.
+> This framework is particularly relevant for regulatory and financial applications as it enables the creation of agents that can handle specific tasks while ensuring safety through configurable guardrails. In the context of RegTech, having agents that can delegate tasks effectively and operate within defined safety parameters is crucial for maintaining compliance and managing risk in complex regulatory environments.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W32 · Aug 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W33 · Aug 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
