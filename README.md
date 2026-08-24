@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[LlamaIndex](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)** — Framework for connecting LLMs to your data with indexing and retrieval.
+**[LlamaIndex](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)** — Framework for connecting LLMs to your data with indexing capabilities.
 
-> As a Regulatory Reporting Consultant, LlamaIndex's capabilities for efficient data indexing and retrieval are crucial for automating compliance workflows. It allows for seamless integration of LLMs with regulatory data sources, enhancing the accuracy and speed of document intelligence processes in FinTech and RegTech applications.
+> LlamaIndex is particularly relevant for regulatory reporting and FinTech applications as it streamlines the process of retrieving and indexing vast amounts of regulatory documents. By enhancing the efficiency of RAG pipelines, it allows for quicker access to critical information, ensuring compliance and informed decision-making in a fast-paced financial environment.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W34 · Aug 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W35 · Aug 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
