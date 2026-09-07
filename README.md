@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[LlamaIndex](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)** — Framework for connecting LLMs to your data with indexing capabilities.
+**[Vector Databases for RAG](https://www.ibm.com/think/topics/rag-vector-database)** — Enhancing retrieval-augmented generation with vector databases.
 
-> LlamaIndex is particularly relevant for regulatory reporting and FinTech applications as it streamlines the process of retrieving and indexing vast amounts of regulatory documents. By enhancing the efficiency of RAG pipelines, it allows for quicker access to critical information, ensuring compliance and informed decision-making in a fast-paced financial environment.
+> As a Regulatory Reporting Consultant, I'm particularly excited about the advancements in vector databases for RAG. These databases can significantly improve the performance of AI agents in handling complex regulatory tasks by enabling more accurate and context-aware retrieval of information. This is crucial for building robust FinTech solutions that require precise compliance and regulatory intelligence.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W35 · Aug 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W37 · Sep 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
