@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[Vector Databases for RAG](https://www.ibm.com/think/topics/rag-vector-database)** — Enhancing retrieval-augmented generation with vector databases.
+**[Hugging Face Kernel Library](https://artificialintelligenceherald.com/ai-news-today)** — Revamped library cutting inference costs by up to 40%.
 
-> As a Regulatory Reporting Consultant, I'm particularly excited about the advancements in vector databases for RAG. These databases can significantly improve the performance of AI agents in handling complex regulatory tasks by enabling more accurate and context-aware retrieval of information. This is crucial for building robust FinTech solutions that require precise compliance and regulatory intelligence.
+> The recent revamp of the Hugging Face kernel library is significant for regulatory and financial AI applications. By reducing inference costs through innovations like fused attention and auto-tuning, this update allows for more efficient processing of large regulatory datasets, ultimately enhancing the speed and accuracy of compliance reporting. This efficiency can lead to more timely insights and better decision-making in the highly regulated financial sector.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W37 · Sep 2026`
+**Status:** 🟡 Evaluating &nbsp;|&nbsp; **Week:** `W38 · Sep 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
