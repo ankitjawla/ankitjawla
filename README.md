@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[Hugging Face Kernel Library](https://artificialintelligenceherald.com/ai-news-today)** — Revamped library cutting inference costs by up to 40%.
+**[RAG](https://www.accio.com/wow/guide-rag-ai-agents-2026.html)** — Retrieval Augmented Generation for AI agents in 2026.
 
-> The recent revamp of the Hugging Face kernel library is significant for regulatory and financial AI applications. By reducing inference costs through innovations like fused attention and auto-tuning, this update allows for more efficient processing of large regulatory datasets, ultimately enhancing the speed and accuracy of compliance reporting. This efficiency can lead to more timely insights and better decision-making in the highly regulated financial sector.
+> I'm currently exploring RAG architectures as they significantly enhance the performance of AI agents by reducing hallucinations and improving the accuracy of information retrieval. This is particularly crucial in regulatory reporting, where precision and compliance are paramount. By integrating RAG into our FinTech solutions, we can ensure that our AI systems provide reliable and contextually relevant insights, which is essential for navigating complex regulatory landscapes.
 
-**Status:** 🟡 Evaluating &nbsp;|&nbsp; **Week:** `W38 · Sep 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W39 · Sep 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
