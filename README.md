@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[RAG](https://www.accio.com/wow/guide-rag-ai-agents-2026.html)** — Retrieval Augmented Generation for AI agents in 2026.
+**[Pinecone](https://www.articsledge.com/post/vector-rag-retrieval-augmented-generation)** — A vector database optimized for RAG and AI agents.
 
-> I'm currently exploring RAG architectures as they significantly enhance the performance of AI agents by reducing hallucinations and improving the accuracy of information retrieval. This is particularly crucial in regulatory reporting, where precision and compliance are paramount. By integrating RAG into our FinTech solutions, we can ensure that our AI systems provide reliable and contextually relevant insights, which is essential for navigating complex regulatory landscapes.
+> Pinecone's recent updates to support fully managed AI inferencing are crucial for regulatory and financial AI applications. By streamlining the embedding generation and reranking processes, it significantly reduces latency, which is vital for real-time regulatory reporting and compliance checks. This makes it easier to integrate advanced LLMs into our existing workflows, enhancing both efficiency and accuracy in regulatory intelligence tasks.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W39 · Sep 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W40 · Sep 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
