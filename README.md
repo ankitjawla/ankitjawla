@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[Pinecone](https://www.articsledge.com/post/vector-rag-retrieval-augmented-generation)** — A vector database optimized for RAG and AI agents.
+**[LangChain](https://langchain.readthedocs.io/en/latest/)** — Framework for developing LLM applications with composable components
 
-> Pinecone's recent updates to support fully managed AI inferencing are crucial for regulatory and financial AI applications. By streamlining the embedding generation and reranking processes, it significantly reduces latency, which is vital for real-time regulatory reporting and compliance checks. This makes it easier to integrate advanced LLMs into our existing workflows, enhancing both efficiency and accuracy in regulatory intelligence tasks.
+> LangChain's modular architecture allows for seamless integration of various LLMs and agents, which is crucial for building sophisticated regulatory reporting tools. By enabling the creation of RAG pipelines and multi-agent systems, it empowers us to enhance regulatory intelligence, ensuring compliance and efficiency in FinTech applications.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W40 · Sep 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W41 · Oct 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
