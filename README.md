@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[LangChain](https://langchain.readthedocs.io/en/latest/)** — Framework for developing LLM applications with composable components
+**[LangChain](https://langchain.readthedocs.io/en/latest/)** — A framework for developing LLM applications with composability.
 
-> LangChain's modular architecture allows for seamless integration of various LLMs and agents, which is crucial for building sophisticated regulatory reporting tools. By enabling the creation of RAG pipelines and multi-agent systems, it empowers us to enhance regulatory intelligence, ensuring compliance and efficiency in FinTech applications.
+> LangChain's composability allows for the integration of various LLMs and agents, which is crucial for building robust regulatory reporting tools. In the FinTech space, this can streamline the extraction and processing of regulatory data, enhancing compliance workflows and decision-making. Its ability to handle complex document intelligence tasks makes it a game-changer for regulatory intelligence applications.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W41 · Oct 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W42 · Oct 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
