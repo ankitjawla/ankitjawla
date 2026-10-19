@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[LangChain](https://langchain.readthedocs.io/en/latest/)** — A framework for developing LLM applications with composability.
+**[Amazon Bedrock](https://aws.amazon.com/blogs/aws/category/artificial-intelligence/generative-ai/)** — Managed Knowledge Base for enterprise AI applications.
 
-> LangChain's composability allows for the integration of various LLMs and agents, which is crucial for building robust regulatory reporting tools. In the FinTech space, this can streamline the extraction and processing of regulatory data, enhancing compliance workflows and decision-making. Its ability to handle complex document intelligence tasks makes it a game-changer for regulatory intelligence applications.
+> Amazon Bedrock's Managed Knowledge Base is a game-changer for regulatory and financial AI applications. It allows for faster and more accurate retrieval of regulatory information, which is crucial for compliance. This capability can significantly enhance the efficiency of RAG pipelines and multi-agent systems in navigating complex regulatory landscapes.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W42 · Oct 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W43 · Oct 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
