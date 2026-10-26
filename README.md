@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[Amazon Bedrock](https://aws.amazon.com/blogs/aws/category/artificial-intelligence/generative-ai/)** — Managed Knowledge Base for enterprise AI applications.
+**[Qdrant](https://www.developersdigest.tech/blog/vector-database-comparison-rag-agents-2026)** — Open-source vector search engine for RAG and AI agents.
 
-> Amazon Bedrock's Managed Knowledge Base is a game-changer for regulatory and financial AI applications. It allows for faster and more accurate retrieval of regulatory information, which is crucial for compliance. This capability can significantly enhance the efficiency of RAG pipelines and multi-agent systems in navigating complex regulatory landscapes.
+> Qdrant's recent updates position it as a powerful tool for building RAG pipelines, which are critical in regulatory environments where accurate retrieval of documents is essential. Its capabilities in handling vector searches can enhance the efficiency of regulatory reporting and compliance checks by enabling faster access to relevant information. As I explore multi-agent systems, leveraging Qdrant could significantly improve the performance of AI agents in navigating complex regulatory frameworks.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W43 · Oct 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W44 · Oct 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
