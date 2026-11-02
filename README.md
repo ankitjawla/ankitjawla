@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[Qdrant](https://www.developersdigest.tech/blog/vector-database-comparison-rag-agents-2026)** — Open-source vector search engine for RAG and AI agents.
+**[LangChain](https://langchain.readthedocs.io/en/latest/)** — A framework for developing applications powered by LLMs.
 
-> Qdrant's recent updates position it as a powerful tool for building RAG pipelines, which are critical in regulatory environments where accurate retrieval of documents is essential. Its capabilities in handling vector searches can enhance the efficiency of regulatory reporting and compliance checks by enabling faster access to relevant information. As I explore multi-agent systems, leveraging Qdrant could significantly improve the performance of AI agents in navigating complex regulatory frameworks.
+> As a Regulatory Reporting Consultant, I'm particularly interested in LangChain's capabilities for building robust RAG pipelines. Its ability to integrate various data sources and facilitate multi-agent interactions can significantly enhance our regulatory intelligence efforts, ensuring compliance while improving efficiency in document processing.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W44 · Oct 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W45 · Nov 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
