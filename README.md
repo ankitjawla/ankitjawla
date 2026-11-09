@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[LangChain](https://langchain.readthedocs.io/en/latest/)** — A framework for developing applications powered by LLMs.
+**[pgvector](https://agentbrisk.com/blog/vector-databases-for-ai-agents-2026/)** — PostgreSQL extension for vector similarity search.
 
-> As a Regulatory Reporting Consultant, I'm particularly interested in LangChain's capabilities for building robust RAG pipelines. Its ability to integrate various data sources and facilitate multi-agent interactions can significantly enhance our regulatory intelligence efforts, ensuring compliance while improving efficiency in document processing.
+> pgvector's recent advancements in vector search capabilities are crucial for enhancing retrieval-augmented generation (RAG) workflows, especially in regulatory reporting contexts where precision and speed are paramount. By integrating pgvector, I can build more efficient document intelligence systems that quickly surface relevant regulatory documents, improving compliance accuracy and operational efficiency in financial institutions.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W45 · Nov 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W46 · Nov 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
