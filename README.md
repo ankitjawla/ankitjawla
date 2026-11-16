@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[pgvector](https://agentbrisk.com/blog/vector-databases-for-ai-agents-2026/)** — PostgreSQL extension for vector similarity search.
+**[Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/category/post-types/announcements/)** — New updates for building AI agents on AWS Bedrock.
 
-> pgvector's recent advancements in vector search capabilities are crucial for enhancing retrieval-augmented generation (RAG) workflows, especially in regulatory reporting contexts where precision and speed are paramount. By integrating pgvector, I can build more efficient document intelligence systems that quickly surface relevant regulatory documents, improving compliance accuracy and operational efficiency in financial institutions.
+> The recent updates to Amazon Bedrock AgentCore are significant for regulatory and FinTech applications. With enhanced capabilities for deploying AI agents, we can improve regulatory reporting processes by automating data extraction and analysis. This means more accurate compliance monitoring and faster response times to regulatory changes, which are crucial in the fast-paced financial sector.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W46 · Nov 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W47 · Nov 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
