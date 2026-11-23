@@ -26,11 +26,11 @@ In my personal time — weekends and outside work hours — I build **GenAI + ag
 <!-- WEEKLY-EXPLORE:START -->
 ### 🔬 Currently Exploring
 
-**[Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/category/post-types/announcements/)** — New updates for building AI agents on AWS Bedrock.
+**[Redis Vector Search Database](https://redis.io/blog/vector-search-database-news-2026-guide/)** — The fastest vector database for RAG and agent memory applications.
 
-> The recent updates to Amazon Bedrock AgentCore are significant for regulatory and FinTech applications. With enhanced capabilities for deploying AI agents, we can improve regulatory reporting processes by automating data extraction and analysis. This means more accurate compliance monitoring and faster response times to regulatory changes, which are crucial in the fast-paced financial sector.
+> As a Regulatory Reporting Consultant, I see immense potential in Redis' latest vector search database for enhancing regulatory intelligence applications. Its speed and reliability, especially with a benchmark of 1 billion vectors and 99.999% uptime, can significantly improve the efficiency of RAG pipelines and multi-agent systems in processing and retrieving compliance-related documents. This is crucial for timely and accurate reporting in the fast-paced FinTech landscape.
 
-**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W47 · Nov 2026`
+**Status:** 🔵 Exploring &nbsp;|&nbsp; **Week:** `W48 · Nov 2026`
 
 <!-- WEEKLY-EXPLORE:END -->
 
